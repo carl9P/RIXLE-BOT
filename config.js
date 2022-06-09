@@ -1,5 +1,5 @@
 userbot = {
- owner: [ "917842346461" ],
+ owner: [ "918910105138" ],
   MONGO_URI: "mongodb+srv://zanDb:veth0581@cluster0.eyx0e.mongodb.net/<mydb>?retryWrites=true&w=majority",
    mess: {
    wait: "wait is in process...",
@@ -11,8 +11,8 @@ userbot = {
    eror: "It seems like Error",
    waits: "Being processed",
    butmag: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTHDLrd0_DwHnJfuZ_pRMOAbLi3-ot-NxyPA&usqp=CAU', // buat Image Button
-   packname: "Well...",
-   author: '@300',
+   packname: "Carl...",
+   author: '@2003',
     setting: {
     admin: "only admin",
     group: "only group",
